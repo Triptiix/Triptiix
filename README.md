@@ -8,7 +8,7 @@ Research and data analyst focused on public-record research, source validation, 
 
 - Audits a widely repeated claim using official sources, a search log, a claim-evidence table, and explicit limitations.
 - Reproduces the Census of India count of **128,539,090** people reporting English in one of three language positions.
-- **Authorship note:** AI-assisted research; I reviewed the final memo, checked its central calculation and sources, and can explain and defend its conclusion.
+- **Authorship note:** I Did Research, Prepared and reviewed the final memo, Research Project and checked its central calculation and sources, and can explain and defend its conclusion.
 
 ### [Olist Commerce 360](https://github.com/Triptiix/olist-commerce-360)
 
